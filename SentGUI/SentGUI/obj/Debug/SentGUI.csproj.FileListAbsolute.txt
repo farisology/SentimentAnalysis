@@ -1,0 +1,8 @@
+E:\My Projects\sentiment\SentGUI.exe.config
+E:\My Projects\sentiment\SentGUI\SentGUI\obj\Debug\SentGUI.Form1.resources
+E:\My Projects\sentiment\SentGUI\SentGUI\obj\Debug\SentGUI.Properties.Resources.resources
+E:\My Projects\sentiment\SentGUI\SentGUI\obj\Debug\SentGUI.csproj.GenerateResource.Cache
+E:\My Projects\sentiment\SentGUI\SentGUI\obj\Debug\SentGUI.exe
+E:\My Projects\sentiment\SentGUI\SentGUI\obj\Debug\SentGUI.pdb
+E:\My Projects\sentiment\SentGUI.exe
+E:\My Projects\sentiment\SentGUI.pdb
