@@ -4,7 +4,7 @@ Sentiment Analysis model using Linear SVM and collection of Tweets about Start W
 Project for MMU NLP subject done by myself and [Mundher](https://github.com/mundher)
 #Multimedia University - Faculty of Information Science and technology, Artificial Intelligence department
 
-#MIT License
+# MIT License
 
 Copyright (c) 2017 Faris Hasan
 
