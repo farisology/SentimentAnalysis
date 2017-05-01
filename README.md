@@ -6,7 +6,7 @@ Project for MMU NLP subject done by myself and [Mundher](https://github.com/mund
 
 # MIT License
 
-Copyright (c) 2017 Faris Hasan
+Copyright (c) 2017 Fares Hasan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
